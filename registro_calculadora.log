@@ -1,0 +1,8 @@
+2022-11-07 09:21:41,911: INFO: Calculadora.py: Calculadora iniciada.
+2022-11-07 09:21:44,699: INFO: Calculadora.py: A soma dos numeros 2 e 7 e igual a 9
+2022-11-07 09:21:48,277: ERROR: Calculadora.py: 2/0: Nao existe divisao por zero.
+2022-11-07 09:21:48,277: INFO: Calculadora.py: A divisao dos numeros 2 e 0 e igual a None
+2022-11-07 09:21:56,416: INFO: Calculadora.py: A multiplicacao dos numeros 3 e 56 e igual a 168
+2022-11-07 09:21:59,660: ERROR: Calculadora.py: Opcao invalida.
+2022-11-07 09:22:03,883: INFO: Calculadora.py: A soma dos numeros 2 e 5 e igual a 7
+2022-11-07 09:22:04,833: INFO: Calculadora.py: Calculadora encerrada.
